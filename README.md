@@ -1,5 +1,7 @@
 ## Pluralsight - Deploying A React App On Github Pages
 
+[Deploying React on Github Pages](https://www.pluralsight.com/guides/deploying-react-on-github-pages)
+
 Deploying A React App on Github Pages
 
 ### `yarn start`
